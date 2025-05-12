@@ -20,4 +20,9 @@ to be hands-free, portable, and suitable for everyday tasks like shopping, commu
 Future versions of this device could include features like GPS-based navigation, facial recognition, haptic feedback, and 
 multi-language voice support. This project is released under the MIT License, making it freely available for further research 
 and development.
-
+.
+.
+.
+.
+.
+Video's Link: https://drive.google.com/drive/folders/1lFK7pEZiLlt1OpIM4lIu08t2VTtXLAXN?usp=sharing
